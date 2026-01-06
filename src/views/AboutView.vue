@@ -12,6 +12,7 @@
 <style scoped>
 .about {
   padding: 2rem;
+  background-color: #555a;
 }
 h1 {
   margin-bottom: 0.5rem;
